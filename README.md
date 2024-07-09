@@ -7,6 +7,8 @@
 Passionate about clean code, software architecture, design practices, principles, paradigms & concepts.
 
 ## 🛠️ Tech Stack
+<details>
+  <summary>Click to expand</summary>
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -48,8 +50,6 @@ Passionate about clean code, software architecture, design practices, principles
 ### Cloud & DevOps
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
@@ -86,30 +86,19 @@ Passionate about clean code, software architecture, design practices, principles
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+</details>
 
-## 🔭 I'm currently working on
-Refactoring and optimizing large-scale microservices architectures using Node.js, Nest.js, and TypeScript
-
-## 👯 I'm looking to collaborate on
-Open-source projects related to DevOps tools, cloud infrastructure, or JavaScript/TypeScript libraries
-
-## 🌱 I'm currently learning
-Deepening my knowledge of Kubernetes, Istio service mesh, and advanced cloud-native patterns
-
-## 💬 Ask me about
-Full-stack development, microservices architecture, cloud migrations, or optimizing CI/CD pipelines
-
-## ⚡ Fun fact
-When I'm not coding, I'm likely underwater exploring coral reefs or capturing the night sky through my camera lens as an avid astrophotographer
+## 🚀 Quick Overview
+- 🔭 **Currently working on:** Refactoring and optimizing large-scale microservices architectures
+- 👯 **Looking to collaborate on:** Open-source DevOps tools, cloud infrastructure, or JS/TS libraries
+- 🌱 **Currently learning:** Advanced Kubernetes, Istio service mesh, and cloud-native patterns
+- 💬 **Ask me about:** Full-stack development, microservices, cloud migrations, CI/CD optimization
+- ⚡ **Fun fact:** Avid underwater explorer and astrophotographer in my free time
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unckleg&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unckleg&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unckleg&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unckleg&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 ## 🌐 Connect with me
